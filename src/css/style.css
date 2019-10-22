@@ -1,0 +1,56 @@
+body {
+  margin: 0 !important;
+}
+
+.container-fluid {
+  padding: 0 !important;
+}
+
+.main-header {
+  background: #303030;
+}
+
+.main-header .logo {
+margin: 10px 0px 10px 20px;
+}
+
+.main-header ul {
+  list-style: none;
+  margin: 0 !important;
+  float: right;
+  margin-top: 30px !important;
+}
+
+.main-header li {
+  color: white;
+  display: inline;
+  padding: 40px;
+}
+
+.main-header li span {
+  color: white;
+  text-decoration: none;
+}
+
+.main-header li span .active {
+  color: #3d4f51;
+}
+
+.banner {
+  width: 100%;
+}
+
+.white-box {
+  border: 2px solid red;
+  background: white;
+  padding: 15px;
+  border-radius: 2px;
+}
+
+.story-block {
+  padding: 50px;
+}
+
+.story-block img {
+  height: 270px;
+}
